@@ -14,7 +14,7 @@ export const Logo = () => {
         <Image src="/spooky.svg" alt="StreaMe" width={80} height={80} />
       </div>
       <div className="flex flex-col items-center">
-        <p className={"text-2xl font-semibold"}>StreaMe</p>
+        <p className={"text-2xl font-semibold"}>Streame</p>
         <p className={"text-sm text-muted-foreground"}>Stream it Dude!</p>
       </div>
     </div>
